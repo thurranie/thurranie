@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thurranie
-I'm a student with a dream to be a scientist and programmer!
+<p>I'm a student with a dream to be a scientist and programmer!</p>
 
 
 <!---
